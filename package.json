@@ -1,0 +1,38 @@
+{
+  "name": "fundopinup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.17.0",
+    "browser-cookies": "^1.1.0",
+    "cheerio": "^0.22.0",
+    "connect": "^3.6.0",
+    "cors": "^2.8.1",
+    "crypto": "0.0.3",
+    "express": "^4.15.0",
+    "express-jwt": "^5.1.0",
+    "express-subdomain": "^1.0.5",
+    "express-useragent": "^1.0.7",
+    "http": "0.0.0",
+    "jsonwebtoken": "^7.3.0",
+    "mongoose": "^4.8.5",
+    "mongoose-schema-jsonschema": "^1.1.10",
+    "mongoose-unique-validator": "^1.0.4",
+    "mongoose-validate": "0.0.5",
+    "morgan": "^1.8.1",
+    "os": "^0.1.1",
+    "q": "^1.4.1",
+    "request": "^2.81.0",
+    "request-ip": "^2.0.1",
+    "set-cookie": "0.0.4",
+    "util": "^0.10.3",
+    "yamlparser": "0.0.2"
+  }
+}
